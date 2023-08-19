@@ -7,7 +7,7 @@ This is a simple contacts management system implemented as an ASP.NET Core 7 web
 - The application allows users to manage contacts by providing features such as adding, editing, and deleting contacts. 
 - It also includes authentication functionality to secure the system, using Individual User Authentication.
 - Each contact has a photo (image using IFormFile), name, email, and phone number
-- Video Youtube
+- Video Youtube: https://youtu.be/ij6R1QpupVE
 
   
 [![ALT_TEXT](http://img.youtube.com/vi/ij6R1QpupVE/0.jpg)](https://www.youtube.com/watch?v=ij6R1QpupVE)
