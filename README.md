@@ -5,10 +5,14 @@
 This is a simple contacts management system implemented as an ASP.NET Core 7 web application using MVC:
 
 - The application allows users to manage contacts by providing features such as adding, editing, and deleting contacts. 
-- It also includes authentication functionality to secure the system.
+- It also includes authentication functionality to secure the system, using Individual User Authentication.
 - Each contact has a photo (image using IFormFile), name, email, and phone number
-- Video Youtube 
+- Video Youtube
+
+  
 [![ALT_TEXT](http://img.youtube.com/vi/ij6R1QpupVE/0.jpg)](https://www.youtube.com/watch?v=ij6R1QpupVE)
+ 
+
 
 ## Features
 
@@ -40,14 +44,14 @@ The image file size is checked to ensure it does not exceed the maximum limit of
 
 ## These Commands may help you in the Implementation using CLI or Visual Studio Code (VS Code)
 
-. Install the required tools by running the following commands:
+- Install the required tools by running the following commands:
 
    ```
    dotnet tool install --global dotnet-ef
    dotnet tool install --global dotnet-aspnet-codegenerator
    ```
 
-. Install the necessary packages by running the following commands:
+- Install the necessary packages by running the following commands:
 
    ```
    dotnet add package Microsoft.EntityFrameworkCore
@@ -58,7 +62,7 @@ The image file size is checked to ensure it does not exceed the maximum limit of
    dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
    ```
 
-. Make a new dotnet project:
+- Make a new dotnet project:
 
   with individual user authentication 
   ```
@@ -70,49 +74,49 @@ The image file size is checked to ensure it does not exceed the maximum limit of
   dotnet new mvc -o ContactManager
   ```
 
-. Build and restore the project by running the following commands:
+- Build and restore the project by running the following commands:
 
    ```
    dotnet restore
    dotnet build
    ```
 
-. Scaffolding the ContactsController and Contacts Views codes
+- Scaffolding the ContactsController and Contacts Views codes
   ```
   dotnet aspnet-codegenerator controller -name ContactsController -m Contact -dc ApplicationDbContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries
   ```
 
-. Forced Scaffolding of the ContactsController and Contacts Views codes, for the second time
+- Forced Scaffolding of the ContactsController and Contacts Views codes, for the second time
   ```
   dotnet aspnet-codegenerator controller -name ContactsController -m Contact -dc ApplicationDbContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -f
   ```
 
-. Apply the database migrations by running the following commands:
+- Apply the database migrations by running the following commands:
 
    ```
    dotnet ef migrations add Contact_mig
    dotnet ef database update
    ```
 
-. Update the database to the initial migration "0" by running the following command:
+- Update the database to the initial migration "0" by running the following command:
 
    ```
    dotnet ef database update 0
    ```
 
-. Removes the last added migration by running the following command:
+- Removes the last added migration by running the following command:
 
    ```
    dotnet ef migrations remove
    ```
 
-. Run the application with the following command:
+- Run the application with the following command:
 
    ```
    dotnet run
    ```
 
-. Access the application in your web browser at `http://localhost:<yourport>`.
+- Access the application in your web browser at `http://localhost:<yourport>`.
 
 
 ## Conclusion
