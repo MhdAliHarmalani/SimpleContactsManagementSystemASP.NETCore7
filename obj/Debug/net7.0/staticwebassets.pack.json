@@ -1,0 +1,289 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ContactManager.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ContactManager.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\images\\1f191bae-93e3-49d3-b3bd-dd818d11c5d4ali.gif",
+      "PackagePath": "staticwebassets\\images\\1f191bae-93e3-49d3-b3bd-dd818d11c5d4ali.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\images\\2888c457-0d69-4d86-9d9c-33c1e59a0d33Untitled1.png",
+      "PackagePath": "staticwebassets\\images\\2888c457-0d69-4d86-9d9c-33c1e59a0d33Untitled1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\images\\52a6d921-0450-4457-8195-d489a9b472c5Untitled3.png",
+      "PackagePath": "staticwebassets\\images\\52a6d921-0450-4457-8195-d489a9b472c5Untitled3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\images\\55eb02f1-9b4b-4ae4-ba21-d72db852ea19Untitled.png",
+      "PackagePath": "staticwebassets\\images\\55eb02f1-9b4b-4ae4-ba21-d72db852ea19Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\images\\d8cf1bae-689f-4958-a088-65e340ada53fUntitled2.png",
+      "PackagePath": "staticwebassets\\images\\d8cf1bae-689f-4958-a088-65e340ada53fUntitled2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\images\\f52df76f-2a0c-477c-8629-9b3756119a6aUntitled4.png",
+      "PackagePath": "staticwebassets\\images\\f52df76f-2a0c-477c-8629-9b3756119a6aUntitled4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mhd Ali\\Desktop\\aspcore\\aspcoretask\\ContactManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ContactManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ContactManager.props",
+      "PackagePath": "build\\ContactManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ContactManager.props",
+      "PackagePath": "buildMultiTargeting\\ContactManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ContactManager.props",
+      "PackagePath": "buildTransitive\\ContactManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

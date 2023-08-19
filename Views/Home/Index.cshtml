@@ -1,0 +1,59 @@
+﻿@model PaginatedList.Models.PaginatedList<ContactManager.Models.Contact>
+
+@* @model IEnumerable<ContactManager.Models.Contact> *@
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Contacts Management System</h1>
+    <p>This is a simple contact management system built with ASP.NET Core MVC.</p>
+</div>
+
+<div class="container">
+    <p>
+        <a asp-controller="Contacts" asp-action="Create">Create New</a>
+    </p>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Photo</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                     <td><img src="images/@item.StoredFileName" alt="@item.FileName" width="100" height="100" /></td> 
+                    <td>@item.Name</td>
+                    <td>@item.Email</td>
+                    <td>@item.Phone</td>
+                    <td><a asp-action="Details" asp-controller="Contacts" asp-route-id="@item.Id">View Details</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+@{
+    var prevDisabled = !Model.PreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.NextPage ? "disabled" : "";
+}
+
+<a asp-action = "Index"
+   asp-route-pageNumber = "@(Model.PageIndex - 1)"
+   class = "btn btn-default @prevDisabled">
+   Previous
+</a>
+
+<a asp-action = "Index"
+   asp-route-pageNumber = "@(Model.PageIndex + 1)"
+   class = "btn btn-default @nextDisabled">
+   Next
+</a>
