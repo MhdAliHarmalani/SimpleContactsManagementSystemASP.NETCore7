@@ -1,8 +1,8 @@
 # Contact Management System
 
-## SimpleContactsManagementSystemASP.NETCore7
+## ContactsManagementSystemASP.NETCore7
 
-This is a simple contacts management system implemented as an ASP.NET Core 7 web application using MVC:
+This is a contacts management system implemented as an ASP.NET Core 7 web application using MVC:
 
 - The application allows users to manage contacts by providing features such as adding, editing, and deleting contacts. 
 - It also includes authentication functionality to secure the system, using Individual User Authentication.
